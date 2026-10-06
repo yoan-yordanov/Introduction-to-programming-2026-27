@@ -83,3 +83,18 @@
 Изход:
 
     5
+
+
+Задача 7: Какво ще изведе следният фрагмент от програма?
+
+```c++
+
+int a = 7;
+int b = 3;
+std::cout << a / b;
+std::cout << (double)(a / b);
+std::cout << (double)a / b;
+std::cout << a / b * 1.0;
+std::cout << a / (b * 1.0);
+
+```

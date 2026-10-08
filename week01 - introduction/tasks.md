@@ -91,13 +91,32 @@
 
 int a = 7;
 int b = 3;
-std::cout << a / b;
-std::cout << (double)(a / b);
-std::cout << (double)a / b;
-std::cout << a / b * 1.0;
-std::cout << a / (b * 1.0);
+
+std::cout << a / b << std::endl;
+std::cout << (double)(a / b) << '\n';
+std::cout << (double)a / b << '\n';
+std::cout << a / b * 1.0 << '\n';
+std::cout << a / (b * 1.0) << '\n';
 
 ```
+
+<details>
+<summary>Решение</summary>
+
+```c++
+
+int a = 7;
+int b = 3;
+
+std::cout << a / b << std::endl; // 2 - целочислено деление
+std::cout << (double)(a / b) << '\n'; // 2 - първо цел. деление, след това преобразуване до double
+std::cout << (double)a / b << '\n'; // 2.33333 - първо a се преобразува до double, после дробно деление
+std::cout << a / b * 1.0 << '\n'; // 2 - деление и умножение са лявоасоциативни, т.е. смятаме отляво надясно
+std::cout << a / (b * 1.0) << '\n'; // 2.33333 - десният аргумент на делението е double, дробно деление
+
+```
+
+</details>
 
 
 **Задача за творческо самостоятелно мислене:** 

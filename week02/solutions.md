@@ -369,15 +369,11 @@ int main() {
         return 2;
     }
 
+    int dx = abs(x1 - x2);
+    int dy = abs(y1 - y2);
+
     // цар
-    if (startX == goalX && startY + 1 == goalY 
-        || startX + 1 == goalX && startY + 1 == goalY
-        || startX + 1 == goalX && startY == goalY
-        || startX + 1 == goalX && startY - 1 == goalY
-        || startX == goalX && startY - 1 == goalY
-        || startX - 1 == goalX && startY - 1 == goalY
-        || startX - 1 == goalX && startY == goalY
-        || startX - 1 == goalX && startY + 1 == goalY) 
+    if (dx <= 1 && dy <= 1) 
     {
         std::cout << "king\n";
     }
@@ -388,14 +384,7 @@ int main() {
     }
 
     // кон
-    if (startX - 1 == goalX && startY + 2 == goalY
-        || startX + 1 == goalX && startY + 2 == goalY
-        || startX + 2 == goalX && startY + 1 == goalY
-        || startX + 2 == goalX && startY - 1 == goalY
-        || startX + 1 == goalX && startY - 2 == goalY
-        || startX - 1 == goalX && startY - 2 == goalY
-        || startX - 2 == goalX && startY - 1 == goalY
-        || startX - 2 == goalX && startY + 1 == goalY) 
+    if (dx == 2 && dy == 1 || dx == 1 && dy == 2) 
     {
         std::cout << "knight\n";
     }
@@ -404,5 +393,8 @@ int main() {
 ```
 Не е нужно да се проверява дали потенциален ход на фигура е в рамките на шахматната дъска.
 Достатъчно е начално и целево поле да са валидни полета и ходът да е възможен.
+Запазваме си разстоянието между началните и крайните координати по x и y,
+за да правим по-малко проверки. Може да стане и без dx и dy, но ще има много повече
+проверки в if-овете.
 
 

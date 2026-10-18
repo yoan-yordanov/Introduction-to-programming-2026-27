@@ -1,14 +1,14 @@
 # Решения на задачите от седмица 2
 
-[Задача 1](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/test/week02/solutions.md#задача-1)<br>
-[Задача 2](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/test/week02/solutions.md#задача-2)<br>
-[Задача 3](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/test/week02/solutions.md#задача-3)<br>
-[Задача 4](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/test/week02/solutions.md#задача-4)<br>
-[Задача 5](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/test/week02/solutions.md#задача-5)<br>
-[Задача 6](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/test/week02/solutions.md#задача-6)<br>
-[Задача 7](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/test/week02/solutions.md#задача-7)<br>
-[Задача 8](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/test/week02/solutions.md#задача-8)<br>
-[Задача 9](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/test/week02/solutions.md#задача-9)<br>
+[Задача 1](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-1)<br>
+[Задача 2](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-2)<br>
+[Задача 3](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-3)<br>
+[Задача 4](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-4)<br>
+[Задача 5](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-5)<br>
+[Задача 6](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-6)<br>
+[Задача 7](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-7)<br>
+[Задача 8](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-8)<br>
+[Задача 9](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-9)<br>
 
 ## Задача 1
 

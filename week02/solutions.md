@@ -1,6 +1,6 @@
 # Решения на задачите от седмица 2
 
-[Задача 5](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/edit/test/week02/solutions.md#задача-5)
+[Задача 5](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/test/week02/solutions.md#задача-5)
 
 ## Задача 1
 

@@ -1,6 +1,14 @@
 # Решения на задачите от седмица 2
 
+[Задача 1](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/test/week02/solutions.md#задача-1)
+[Задача 2](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/test/week02/solutions.md#задача-2)
+[Задача 3](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/test/week02/solutions.md#задача-3)
+[Задача 4](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/test/week02/solutions.md#задача-4)
 [Задача 5](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/test/week02/solutions.md#задача-5)
+[Задача 6](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/test/week02/solutions.md#задача-6)
+[Задача 7](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/test/week02/solutions.md#задача-7)
+[Задача 8](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/test/week02/solutions.md#задача-8)
+[Задача 9](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/test/week02/solutions.md#задача-9)
 
 ## Задача 1
 

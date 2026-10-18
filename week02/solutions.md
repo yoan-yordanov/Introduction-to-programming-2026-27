@@ -145,22 +145,22 @@ int main() {
     
     switch (grade) {
         case 2:
-            std::cout << "слаб";
+            std::cout << "слаб\n";
             break;
         case 3:
-            std::cout << "среден";
+            std::cout << "среден\n";
             break;
         case 4:
-            std::cout << "добър";
+            std::cout << "добър\n";
             break;
         case 5:
-            std::cout << "много добър";
+            std::cout << "много добър\n";
             break;
         case 6:
-            std::cout << "отличен";
+            std::cout << "отличен\n";
             break;
         default:
-            std::cout << "невалидна оценка";
+            std::cout << "невалидна оценка\n";
             break;
     }
     
@@ -364,6 +364,11 @@ int main() {
         return 1;
     }
 
+    if (startX == goalX && startY == goalY) {
+        std::cout << "Enter two different start and goal fields.";
+        return 2;
+    }
+
     // цар
     if (startX == goalX && startY + 1 == goalY 
         || startX + 1 == goalX && startY + 1 == goalY
@@ -383,9 +388,8 @@ int main() {
     }
 
     // кон
-    if (startX  - 1 == goalX && startY + 2== goalY
+    if (startX - 1 == goalX && startY + 2 == goalY
         || startX + 1 == goalX && startY + 2 == goalY
-        || startX == goalX && startY == goalY
         || startX + 2 == goalX && startY + 1 == goalY
         || startX + 2 == goalX && startY - 1 == goalY
         || startX + 1 == goalX && startY - 2 == goalY

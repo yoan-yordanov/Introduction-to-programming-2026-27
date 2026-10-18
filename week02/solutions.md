@@ -1,14 +1,14 @@
 # Решения на задачите от седмица 2
 
-[Задача 1](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-1)<br>
-[Задача 2](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-2)<br>
-[Задача 3](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-3)<br>
-[Задача 4](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-4)<br>
-[Задача 5](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-5)<br>
-[Задача 6](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-6)<br>
-[Задача 7](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-7)<br>
-[Задача 8](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-8)<br>
-[Задача 9](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-9)<br>
+[Задача 1 - FizzBuzz](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-1)<br>
+[Задача 2 - Valid triangle](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-2)<br>
+[Задача 3 - Points in 2D](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-3)<br>
+[Задача 4 - Quadratic equation](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-4)<br>
+[Задача 5 - Grades](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-5)<br>
+[Задача 6 - Four Seasons](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-6)<br>
+[Задача 7 - Outfit planner](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-7)<br>
+[Задача 8 - Valid date](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-8)<br>
+[Задача 9 - Chess](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week02/solutions.md#задача-9)<br>
 
 ## Задача 1
 

@@ -370,6 +370,7 @@ int main() {
         return 2;
     }
 
+    // начин 1
     int dx = std::abs(startX - goalX);
     int dy = std::abs(startY - goalY);
 
@@ -389,6 +390,38 @@ int main() {
     {
         std::cout << "knight\n";
     }
+
+    // начин 2
+    // цар
+    // if (startX == goalX && startY + 1 == goalY 
+    //     || startX + 1 == goalX && startY + 1 == goalY
+    //     || startX + 1 == goalX && startY == goalY
+    //     || startX + 1 == goalX && startY - 1 == goalY
+    //     || startX == goalX && startY - 1 == goalY
+    //     || startX - 1 == goalX && startY - 1 == goalY
+    //     || startX - 1 == goalX && startY == goalY
+    //     || startX - 1 == goalX && startY + 1 == goalY) 
+    // {
+    //     std::cout << "king\n";
+    // }
+
+    // // топ
+    // if (startX == goalX || startY == goalY) {
+    //     std::cout << "rook\n";
+    // }
+
+    // // кон
+    // if (startX - 1 == goalX && startY + 2 == goalY
+    //     || startX + 1 == goalX && startY + 2 == goalY
+    //     || startX + 2 == goalX && startY + 1 == goalY
+    //     || startX + 2 == goalX && startY - 1 == goalY
+    //     || startX + 1 == goalX && startY - 2 == goalY
+    //     || startX - 1 == goalX && startY - 2== goalY
+    //     || startX - 2 == goalX && startY - 1 == goalY
+    //     || startX - 2 == goalX && startY + 1 == goalY) 
+    // {
+    //     std::cout << "knight\n";
+    // }
     return 0;
 }
 ```

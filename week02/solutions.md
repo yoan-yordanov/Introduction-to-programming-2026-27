@@ -353,6 +353,7 @@ int main() {
 
 ```c++
 #include <iostream>
+#include <cmath>
 
 int main() {
     int startX, startY, goalX, goalY;
@@ -369,8 +370,8 @@ int main() {
         return 2;
     }
 
-    int dx = abs(x1 - x2);
-    int dy = abs(y1 - y2);
+    int dx = std::abs(startX - goalX);
+    int dy = std::abs(startY - goalY);
 
     // цар
     if (dx <= 1 && dy <= 1) 

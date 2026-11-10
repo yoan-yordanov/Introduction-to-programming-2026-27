@@ -105,7 +105,7 @@ int main() {
 
 *Насока:* Вижте в решението как се проверява дали 2 реални числа са равни 
 
-Може да копирате кода от [тук](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week01%20-%20introduction/solutions.md)
+Може да копирате кода от [тук](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week01-Introduction/solutions.md)
 
 Направете валидация на коефициентите на вход. Ако a = 0, да се изведе подходящо съобщение и програмата да приключи веднага.
 

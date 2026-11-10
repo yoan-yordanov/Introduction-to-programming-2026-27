@@ -16,6 +16,6 @@
  - facebook: Victor Naydenov
 
  ## Бързи връзки
- - [Насоки за инсталиране на среда и работа с нея](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week01%20-%20introduction/how-to-start.md)
-- [Приоритет на операторите](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week01%20-%20introduction/operators_priority.pdf)
+ - [Насоки за инсталиране на среда и работа с нея](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week01-Introduction/how-to-start.md)
+- [Приоритет на операторите](https://github.com/yoan-yordanov/Introduction-to-programming-2026-27/blob/main/week01-Introduction/operators_priority.pdf)
 - [Документация на c++: cppreference.com](https://cppreference.com/)

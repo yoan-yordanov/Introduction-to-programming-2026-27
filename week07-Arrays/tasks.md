@@ -202,7 +202,7 @@
 
 Насоки:
 - функция `bool isSorted(...)`
-- функция `void mergeSortedArrays(const int[] left, unsigned leftSize, const int[] right, unsigned rightSize, int[] merged)`
+- функция `void mergeSortedArrays(const int left[], unsigned leftSize, const int right[], unsigned rightSize, int merged[])`
 - преди да се извика функцията `mergeSortedArrays`, трябва да се задели достатъчно място за `merged`
 
 ### Задачи за самостоятелна работа

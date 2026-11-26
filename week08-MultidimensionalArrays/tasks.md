@@ -60,7 +60,7 @@
 
     int main() {
         unsigned numRows, numCols;
-        std::cin >> numRows >> numCols;
+        std::cin >> numRows >> numCols; // добре е да валидирате входните данни, не трябва да бъдат повече от MAX_SIZE
         int matrix[MAX_SIZE][MAX_SIZE];
         for (unsigned i = 0; i < numRows; ++i) {
             for (unsigned j = 0; j < numCols; ++j) {
